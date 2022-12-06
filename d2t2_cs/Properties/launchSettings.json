@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "d2t2_cs": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt",
+      "workingDirectory": "C:\\Users\\thalber\\Documents\\GitHub\\aoc-2022\\d2t2_cs\\bin\\Debug\\net7.0"
+    }
+  }
+}
