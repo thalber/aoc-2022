@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "d3t1_cs": {
-      "commandName": "Project",
-      "commandLineArgs": "d6.txt", 
-      "workingDirectory": "C:\\Users\\thalber\\Documents\\GitHub\\aoc-2022"
-    }
-  }
-}
