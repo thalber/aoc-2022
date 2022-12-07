@@ -6,15 +6,15 @@ int maxcal = 0, ckal = 0;
 
 foreach (var line in File.ReadAllLines(args[0]))
 {
-    if (int.TryParse(line, out var value))
-    {
-        ckal += value;
-    }
-    else
-    {
-        maxcal = Math.Max(maxcal, ckal);
-        ckal = 0;
-    }
+	if (int.TryParse(line, out var value))
+	{
+		ckal += value;
+	}
+	else
+	{
+		maxcal = Math.Max(maxcal, ckal);
+		ckal = 0;
+	}
 }
 Console.WriteLine(maxcal);
 Console.ReadKey();

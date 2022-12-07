@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "d3t1_cs": {
+      "commandName": "Project",
+      "commandLineArgs": "d7.txt", 
+      "workingDirectory": "$AOCINPUT"
+    }
+  }
+}
